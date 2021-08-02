@@ -1,0 +1,28 @@
+.box{
+    width: 75%;
+    border: 5px solid black;
+    padding: 50px;
+    margin: auto;
+}
+
+
+.rowText
+{
+    display: inline-block;
+}
+
+.dropdown
+{
+   padding-top: 100px;
+  padding-right: 100px;
+  padding-bottom: 100px;
+  padding-left: 100px;
+}
+
+.center
+{
+    margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
